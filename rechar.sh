@@ -2,7 +2,7 @@
 # ╔══════════════════════════════════════════════════════════════════╗
 # ║                  RECHAR — Recon Harvester                       ║
 # ║            Bug Bounty Intelligence Pipeline v1.0                ║
-# ╚══════════════════════════════════════════════════════════════════╝
+# ╚══════════════════════════════════════════════════════════════════╝ 
 # Usage: ./rechar.sh -d target.com [-t threads] [-o output_dir] [-s scope_file]
 # Install: chmod +x rechar.sh && sudo mv rechar.sh ~/tools/recon/
 
